@@ -1,4 +1,4 @@
-👋 Hi, I’m HyeJin Hwang! I'm WebDeveloper :)
+👋 Hi, I’m HyeJin Hwang! :)
 
 ## 💻 Skills
 
