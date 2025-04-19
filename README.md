@@ -11,5 +11,3 @@ Hi, Today is good day :)
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hwang-gPwls&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yceffort&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yceffort&theme=nord_dark)
